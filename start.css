@@ -1,0 +1,13 @@
+* {
+    box-sizing: border-box; }
+
+body {
+    background-image: url("img/wgz9.jpg");
+    background-position: bottom;
+    background-size: cover; }
+
+    h1 {
+        font-size: 80px;
+        font-family: "Seaweed Script", cursive;
+        color: #e8820c;
+        padding-top: 30px; }
