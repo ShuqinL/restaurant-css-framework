@@ -1,13 +1,20 @@
 * {
     box-sizing: border-box; }
 
-body {
+/*body {
     background-image: url("img/wgz9.jpg");
     background-position: bottom;
-    background-size: cover; }
+    background-size: cover; }*/
 
     h1 {
         font-size: 80px;
+        font-family: "Yesteryear", cursive;
+        color: #d62c3afd;
+        padding-bottom:8px;
+     }
+
+     .container p{
+        font-size: 40px;
         font-family: "Seaweed Script", cursive;
-        color: #e8820c;
-        padding-top: 30px; }
+        color: #5a5d5efd;
+     }
